@@ -11,3 +11,5 @@ Rock, Paper, Scissor — Python Game  A simple command-line implementation of th
 3. Open terminal in the project folder
 4. Run the script:
           rps.py
+# Author
+Made by Abdurrehman
